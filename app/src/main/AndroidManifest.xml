@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.simple.guide.gfx.v1">
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/pic8"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/pic8"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <activity
+            android:name=".splash"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.facebook.ads.AudienceNetworkActivity"
+            android:hardwareAccelerated="true" />
+
+        <activity
+            android:name=".Home"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".list_tips"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".StepsActivity"
+            android:screenOrientation="portrait" />
+
+
+        <!-- Strict_mode ID AdMob -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/Application_Id" />
+
+    </application>
+
+</manifest>

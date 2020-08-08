@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Walktrough for Mr Meat: Horror Escape Room tips </string>
+
+
+    <string name="AdMob_Id">ca-app-pub-9693653064627098~1386127574</string> <!--Id AdMob For GDPR-->
+    <string name="Application_Id">ca-app-pub-9693653064627098~1386127574</string>  <!--Id App for Initialize ads-->
+    <string name="Banner_AdMob">573852096628243_574747859872000</string>
+    <string name="Interstitial_AdMob">573852096628243_573852403294879</string>
+
+    <string name="privacy_link"></string>
+
+
+    <string name="title_home">Walktrough for Sakura Simulator School</string>
+    <string name="start_text">START TIPS</string>
+    <string name="share_text">Share</string>
+    <string name="rate_text">Rate</string>
+    <string name="privacy_text"><u>Privacy Policy</u></string>
+
+
+    <string name="choose_item">Choose tips</string>
+    <string name="steps">Steps</string>
+
+    <string name="splash_text1">Tips</string>
+    <string name="splash_text2">Step By Step</string>
+    <string name="splash_text3">2020</string>
+
+
+
+
+    <!--Tips 1-->
+    <string name="a_title">Yandere School</string>
+    <string name="a_sous_title">Preparation :</string>
+    <string name="a_step1">1. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="a_step2">2. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="a_step3">Confess: Head behind the school now to find Makio-senpai. Confess to him to end Day 1.
+</string>
+    <string name="a_step4">4. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="a_step5">5. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="a_step6">6. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="a_step7">7. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="a_step8">8. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="a_step9">9. You can draw yourself a blank box for pencils or print it out</string>
+
+    <!--Tips 2-->
+    <string name="b_title">Mak some Pencil Box</string>
+    <string name="b_sous_title">Preparation :</string>
+    <string name="b_step1">1. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="b_step2">2. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="b_step3">3. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="b_step4">4. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="b_step5">5. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="b_step6">6. You can draw yourself a blank box for pencils or print it out</string>
+
+    <!--Tips 3-->
+    <string name="c_title">Mak some Pencil Box</string>
+    <string name="c_sous_title">Preparation :</string>
+    <string name="c_step1">1. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="c_step2">2. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="c_step3">3. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="c_step4">4. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="c_step5">5. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="c_step6">6. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="c_step7">7. You can draw yourself a blank box for pencils or print it out</string>
+
+
+    <!--Tips 4-->
+    <string name="d_title">Mak some Pencil Box</string>
+    <string name="d_sous_title">Preparation :</string>
+    <string name="d_step1">1. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="d_step2">2. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="d_step3">3. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="d_step4">4. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="d_step5">5. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="d_step6">6. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="d_step7">7. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="d_step8">8. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="d_step9">9. You can draw yourself a blank box for pencils or print it out</string>
+
+
+    <!--Tips 5-->
+    <string name="e_title">Mak some Pencil Box</string>
+    <string name="e_sous_title">Preparation :</string>
+    <string name="e_step1">1. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="e_step2">2. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="e_step3">3. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="e_step4">4. You can draw yourself a blank box for pencils or print it out</string>
+
+
+    <!--Tips 6-->
+    <string name="f_title">Mak some Pencil Box</string>
+    <string name="f_sous_title">Preparation :</string>
+    <string name="f_step1">1. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="f_step2">2. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="f_step3">3. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="f_step4">4. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="f_step5">5. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="f_step6">6. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="f_step7">7. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="f_step8">8. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="f_step9">9. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="f_step10">10. You can draw yourself a blank box for pencils or print it out</string>
+
+    <!--Tips 7-->
+    <string name="g_title">Mak some Pencil Box</string>
+    <string name="g_sous_title">Preparation :</string>
+    <string name="g_step1">1. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="g_step2">2. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="g_step3">3. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="g_step4">4. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="g_step5">5. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="g_step6">6. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="g_step7">7. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="g_step8">8. You can draw yourself a blank box for pencils or print it out</string>
+
+
+    <!--Tips 8-->
+    <string name="h_title">Mak some Pencil Box</string>
+    <string name="h_sous_title">Preparation :</string>
+    <string name="h_step1">1. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="h_step2">2. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="h_step3">3. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="h_step4">4. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="h_step5">5. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="h_step6">6. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="h_step7">7. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="h_step8">8. You can draw yourself a blank box for pencils or print it out</string>
+    <string name="h_step9">9. You can draw yourself a blank box for pencils or print it out</string>
+
+
+
+
+
+</resources>
